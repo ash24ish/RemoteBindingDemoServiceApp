@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteBindingDemoServiceApp</string>
+    <string name="remote_binding_desc">This Remote Binding Demo ServiceApp.
+        This will generate random number service and
+        activity from another app (RemoteBindingDemoClientBinderApp) will bound to this service
+        to get the random number &amp; display it.</string>
+</resources>
